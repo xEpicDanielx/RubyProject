@@ -1,24 +1,17 @@
-# README
+# My Ruby Portfolio AppName
+>This is just a Ruby app I'm making to learn Ruby. No big deal..
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+### Features
+-Real time chat engine for comments
+-Blog
+-Portfolio
+-Drag and drop interface
 
-* Ruby version
+### Code Example
+```ruby
+Def my_great_method
+  puts "here it is"
+  end
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
